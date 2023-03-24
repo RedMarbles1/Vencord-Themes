@@ -1,2 +1,6 @@
 # Vencord-Themes
-Themes made to be used with vencord
+Themes to use with Vencord
+
+# RadialStatus
+Source: https://github.com/DiscordStyles/RadialStatus
+Install link:
